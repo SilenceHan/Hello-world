@@ -1,5 +1,5 @@
 # Hello-world
-A tiral project
+_A tiral project_
 
 ## Why this project?
 To understand basic functions about github.
