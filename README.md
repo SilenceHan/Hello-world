@@ -19,4 +19,4 @@ As an upcoming student at CMU MSCF, I am busy reviewing my knowledge in math, st
 4. Going through basic machine learning books
 5. Building systematic knowledge about computer science, including operating system, linux, OOP, distributed computing, etc.
 6. Reading some interview books
-7. Getting familiar with some popular professional tools/websites, like _Github, Kaggle, and Mongo DB_.
+7. Getting familiar with some popular professional tools/websites, like _Github, Kaggle, LaTeX, and Mongo DB_.
